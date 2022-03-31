@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Terraform, AWS**
 
-- 📝 I regularly write articles on [https://dev.to/ittrident](https://dev.to/ittrident)
+- 📝 I regularly write articles on [ittrident](https://dev.to/ittrident)
 
 - 💬 Ask me about **Linux, Ansible, Jenkins**
 
