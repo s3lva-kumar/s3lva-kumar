@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selvakumar</h1>
 <h3 align="center">A passionate learner of all things IT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3lva-kumar&label=%F0%9F%96%BC%EF%B8%8F%20%F0%9F%91%80&color=2e3436&style=flat-square" alt="s3lva-kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s3lva-kumar&label=%F0%9F%96%BC%EF%B8%8F%20%F0%9F%91%80&color=2e3436&style=flat" alt="s3lva-kumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3lva-kumar" alt="s3lva-kumar" /></a> </p>
 
