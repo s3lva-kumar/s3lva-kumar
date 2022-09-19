@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3lva-kumar" alt="s3lva-kumar" /></a> </p>
 
-- 🔭 I’m currently working on Infrastructure-as-Code and ConfigManagement for [faasd](https://github.com/openfaas/faasd), [GoCD](https://www.gocd.org)
+- 🔭 I’m currently working on Infrastructure-as-Code and ConfigManagement for [GoCD](https://www.gocd.org)
 
 - 🌱 I’m currently learning **Terraform, AWS**
 
 - 📝 I regularly write articles on [https://dev.to/ittrident](https://dev.to/ittrident)
 
-- 💬 Ask me about **Linux, Ansible, Jenkins**
+- 💬 Ask me about **Linux, Ansible, Jenkins, Docker**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
