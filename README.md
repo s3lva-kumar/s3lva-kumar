@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Restore SSH connectivity to EC2 instance if SSH key pair is lost](https://dev.to/ittrident/restore-ssh-connectivity-to-ec2-instance-if-ssh-key-pair-is-lost-4dnn)
 - [Migrate RDS Cross-Account](https://dev.to/ittrident/migrate-rds-cross-account-4bp6)
 <!-- BLOG-POST-LIST:END -->
 
