@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrate RDS Cross-Account](https://dev.to/ittrident/migrate-rds-cross-account-4bp6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
