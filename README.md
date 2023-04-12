@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup AWS ECS Cluster as Build Slave for Jenkins](https://dev.to/ittrident/how-to-setup-aws-ecs-cluster-as-build-slave-for-jenkins-1fp8)
 - [Restore SSH connectivity to EC2 instance if SSH key pair is lost](https://dev.to/ittrident/restore-ssh-connectivity-to-ec2-instance-if-ssh-key-pair-is-lost-4dnn)
 - [Migrate RDS Cross-Account](https://dev.to/ittrident/migrate-rds-cross-account-4bp6)
 <!-- BLOG-POST-LIST:END -->
