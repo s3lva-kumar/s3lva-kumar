@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Selvakumar</h1>
-<h3 align="center">A passionate learner of all things IT</h3> 
+<h3 align="center">A passionate learner of all things IT <img src="https://camo.githubusercontent.com/65f00c4f146b2c20e3c6ae1abc7501a4937e1fb54239fcc41860da0c59d27e56/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333030302f312a6d717630334b726c47354c4b325855317556344c4a672e676966" height=90 width=250 align="right"></h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3lva-kumar&label=%F0%9F%96%BC%EF%B8%8F%20%F0%9F%91%80&color=2e3436&style=flat" alt="s3lva-kumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3lva-kumar" alt="s3lva-kumar" /></a> <img src="https://camo.githubusercontent.com/65f00c4f146b2c20e3c6ae1abc7501a4937e1fb54239fcc41860da0c59d27e56/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333030302f312a6d717630334b726c47354c4b325855317556344c4a672e676966" height=90 width=250 align="right">
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3lva-kumar" alt="s3lva-kumar" /></a> </p>
 
 - 🔭 I’m currently working to build the Helm Chart for [venueless](https://venueless.org/en//)
 
