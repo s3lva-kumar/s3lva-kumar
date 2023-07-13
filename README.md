@@ -16,6 +16,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#277](https://github.com/dfir-iris/iris-web/pull/277) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+2. 💪 Opened PR [#276](https://github.com/dfir-iris/iris-web/pull/276) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+3. 🗣 Commented on [#2](https://github.com/s3lva-kumar/eks-plugin/issues/2) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
+4. 🔒 Closed issue [#1](https://github.com/s3lva-kumar/eks-plugin/issues/1) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
+5. 🗣 Commented on [#1](https://github.com/s3lva-kumar/eks-plugin/issues/1) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
