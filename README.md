@@ -13,6 +13,11 @@
 
 - 💬 Ask me about **Linux, Ansible, Jenkins, Docker, Terraform, CloudFront, AWS**
 
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Setup AWS ECS Cluster as Build Slave for Jenkins](https://dev.to/ittrident/how-to-setup-aws-ecs-cluster-as-build-slave-for-jenkins-1fp8)
