@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#277](https://github.com/dfir-iris/iris-web/pull/277) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
-2. 💪 Opened PR [#276](https://github.com/dfir-iris/iris-web/pull/276) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
-3. 🗣 Commented on [#2](https://github.com/s3lva-kumar/eks-plugin/issues/2#issuecomment-1614418178) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
-4. 🔒 Closed issue [#1](https://github.com/s3lva-kumar/eks-plugin/issues/1) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
-5. 🗣 Commented on [#1](https://github.com/s3lva-kumar/eks-plugin/issues/1#issuecomment-1614416716) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
+1. 🎉 Merged PR [#3](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/3) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
+2. 💪 Opened PR [#277](https://github.com/dfir-iris/iris-web/pull/277) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+3. 💪 Opened PR [#276](https://github.com/dfir-iris/iris-web/pull/276) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+4. 🗣 Commented on [#2](https://github.com/s3lva-kumar/eks-plugin/issues/2#issuecomment-1614418178) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
+5. 🔒 Closed issue [#1](https://github.com/s3lva-kumar/eks-plugin/issues/1) in [s3lva-kumar/eks-plugin](https://github.com/s3lva-kumar/eks-plugin)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
