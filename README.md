@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/4) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
-2. 🗣 Commented on [#4](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/4#issuecomment-1667733295) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
-3. 🎉 Merged PR [#3](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/3) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
-4. 💪 Opened PR [#277](https://github.com/dfir-iris/iris-web/pull/277) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
-5. 💪 Opened PR [#276](https://github.com/dfir-iris/iris-web/pull/276) in [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web)
+1. ❌ Closed PR [#5](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/5) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
+2. 💪 Opened PR [#5](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/5) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
+3. 🎉 Merged PR [#4](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/4) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
+4. 🗣 Commented on [#4](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/4#issuecomment-1667733295) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
+5. 🎉 Merged PR [#3](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/3) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
 <!--END_SECTION:activity-->
 
 ### Blogs posts
