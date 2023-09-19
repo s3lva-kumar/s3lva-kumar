@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3lva-kumar" alt="s3lva-kumar" /></a> </p>
 
-- 🔭 I’m currently working to build the Helm Chart for [venueless](https://venueless.org/en//)
+<!--🔭 I’m currently working to --> 
 
-- 🌱 I’m currently learning **Terraform, K8s**
+- 🌱 I’m currently learning **K8s, Helm, GCP**
 
 - 📝 I regularly write articles on [https://dev.to/ittrident](https://dev.to/ittrident)
 
-- 💬 Ask me about **Linux, Ansible, Jenkins, Docker, Terraform, CloudFront, AWS, K8s**
+- 💬 Ask me about **Linux, Ansible, Jenkins, Docker, Terraform, CloudFlare, AWS, K8s, Helm**
 
 
 ### :zap: Recent Activity
