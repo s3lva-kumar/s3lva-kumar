@@ -15,8 +15,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/itTrident/terraform-gcp-cloudrun-filestore/pull/7) in [itTrident/terraform-gcp-cloudrun-filestore](https://github.com/itTrident/terraform-gcp-cloudrun-filestore)
-2. 💪 Opened PR [#7](https://github.com/itTrident/terraform-gcp-cloudrun-filestore/pull/7) in [itTrident/terraform-gcp-cloudrun-filestore](https://github.com/itTrident/terraform-gcp-cloudrun-filestore)
+1. ❌ Closed PR [#7](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/7) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
+2. 💪 Opened PR [#7](https://github.com/s3lva-kumar/terraform-eks-plugin/pull/7) in [s3lva-kumar/terraform-eks-plugin](https://github.com/s3lva-kumar/terraform-eks-plugin)
 3. 🎉 Merged PR [#6](https://github.com/itTrident/terraform-gcp-cloudrun-filestore/pull/6) in [itTrident/terraform-gcp-cloudrun-filestore](https://github.com/itTrident/terraform-gcp-cloudrun-filestore)
 4. 💪 Opened PR [#6](https://github.com/itTrident/terraform-gcp-cloudrun-filestore/pull/6) in [itTrident/terraform-gcp-cloudrun-filestore](https://github.com/itTrident/terraform-gcp-cloudrun-filestore)
 5. 🎉 Merged PR [#5](https://github.com/itTrident/terraform-gcp-cloudrun-filestore/pull/5) in [itTrident/terraform-gcp-cloudrun-filestore](https://github.com/itTrident/terraform-gcp-cloudrun-filestore)
