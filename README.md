@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **K8s, Helm, GCP**
 
-- 📝 I regularly write articles on [https://dev.to/ittrident](https://dev.to/ittrident)
+- 📝 I regularly write articles on [https://dev.to/s3lvakumar](https://dev.to/s3lvakumar)
 
 - 💬 Ask me about **Linux, Ansible, Jenkins, Docker, Terraform, CloudFlare, AWS, K8s, Helm**
 
